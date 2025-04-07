@@ -1,0 +1,15 @@
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/Sudoku
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/Sudoku.deps.json
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/Sudoku.runtimeconfig.json
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/Sudoku.dll
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/Sudoku.pdb
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.csproj.AssemblyReference.cache
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.AssemblyInfoInputs.cache
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.AssemblyInfo.cs
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.csproj.CoreCompileInputs.cache
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.dll
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/refint/Sudoku.dll
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.pdb
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/Sudoku.genruntimeconfig.cache
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/obj/Release/net7.0/ref/Sudoku.dll

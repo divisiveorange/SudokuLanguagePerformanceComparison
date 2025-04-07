@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B0241C90-194D-4DAA-936E-5BD87DB19CA8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sudoku PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sudoku/Program.cs">
+    <Files>
+      <File FileName="Sudoku/Program.cs" Line="60" Column="24" />
+      <File FileName="Sudoku/bin/Release/net7.0/Sudoku.runtimeconfig.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sudoku" expanded="True">
+            <Node name="Sudoku" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

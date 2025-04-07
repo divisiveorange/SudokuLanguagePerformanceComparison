@@ -1,0 +1,5 @@
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/publish/Sudoku
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/publish/Sudoku.dll
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/publish/Sudoku.deps.json
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/publish/Sudoku.runtimeconfig.json
+/Users/alexandergarrity/Documents/coding/Csharp/Sudoku/Sudoku/bin/Release/net7.0/publish/Sudoku.pdb
